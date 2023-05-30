@@ -1,7 +1,7 @@
 function App() {
   return (
     <>
-      <h1>Haris Samingan</h1>
+      <h1>Handsome Samingan</h1>
       <h2>Software Developer</h2>
     </>
   );
